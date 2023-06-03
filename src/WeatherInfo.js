@@ -19,7 +19,7 @@ export default function WeatherInfo(props) {
             <div className="d-flex">
               <WeatherIcon code={props.data.icon} />
               <div className="float-left">
-                <WeatherTemperature celcius={props.data.temperature} />
+                <WeatherTemperature celsius={props.data.temperature} />
               </div>
             </div>
           </div>
