@@ -10,7 +10,7 @@ function App() {
         <footer>
           This project is created by{" "}
           <a href="mailto:yoonpyae26@gmail.com" target="_blank" rel="noreferrer">
-            Yonn Pyae Eain
+            Yoon Pyae Eain
           </a>{" "}
           and is{" "}
           <a
