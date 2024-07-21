@@ -5,7 +5,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-image: url(weather-bg.jpg);
+  background-image: url(public/weather-bg.jpg);
   min-height: 100vh;
   background-position: center;
   background-repeat: no-repeat;
