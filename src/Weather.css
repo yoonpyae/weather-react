@@ -1,9 +1,9 @@
 .Weather {
   font-family: arial, sans-serif;
-  border: 1px solid #dadde1;
+  border: 1px solid #fff204;
   padding: 16px;
   border-radius: 4px;
-  color: rgb(0, 0, 0);
+  color: #ffff;
   background: rgba(110, 110, 110, 0.25);
   box-shadow: 0px 8px 32px 0px rgba(0, 0, 0, 0.3);
   backdrop-filter: blur(10px);
@@ -34,14 +34,14 @@
 
 .Weather .temperature {
   font-weight: bold;
-  color: rgb(33, 33, 33);
+  color: rgb(210, 210, 210);
   font-size: 64px;
   line-height: 64px;
   font-weight: 400;
 }
 
 .Weather .unit {
-  color: rgb(33, 33, 33);
+  color: rgb(210, 210, 210);
   font-size: 16px;
   font-weight: 400;
   position: relative;
@@ -50,5 +50,5 @@
 }
 
 .Weather .button {
-  background: #1e5ba0;
+  background: #fff204;
 }
