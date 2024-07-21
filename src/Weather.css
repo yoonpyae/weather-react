@@ -51,6 +51,7 @@
 
 .Weather .button {
   background: #fff204;
+  border: none;
 }
 
 .Weather .button:hover {
