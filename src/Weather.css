@@ -58,7 +58,7 @@
   background-color: rgba(110, 110, 110, 0.25);
 }
 
-@media (min-width: 500px) {
+@media (max-width: 500px) {
   .Weather .temperature {
     font-size: 44px;
   }
